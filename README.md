@@ -43,13 +43,23 @@ Model evaluation
 https://amueller.github.io/COMS4995-s20/slides/aml-09-model-evaluation
 
 Basic Codes from the Instructor: Depeng Xu
-file:///C:/Users/tamim/Downloads/text1.html
+
+file:///C:/Users/tamim/Downloads/text1.html 
+
 file:///C:/Users/tamim/Downloads/text2.html
+
 file:///C:/Users/tamim/Downloads/text3.html
+
 file:///C:/Users/tamim/Downloads/nn1.html
+
 file:///C:/Users/tamim/Downloads/nn2.html
+
 file:///C:/Users/tamim/Downloads/nn3.html
+
 file:///C:/Users/tamim/Downloads/hw1solution_Depeng_Xu.html
+
 file:///C:/Users/tamim/Downloads/hw2solution.html
+
 file:///C:/Users/tamim/Downloads/Homework3-Task1-solution.html
+
 file:///C:/Users/tamim/Downloads/hw4_prob1_cycleshare_python.html
