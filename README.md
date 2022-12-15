@@ -79,7 +79,7 @@ b.	Percentage of each genre movie in a year among all other released movie genre
 c.	Autocorrelation: In Autocorrelation, number lags are essential, which means that number of original data is parallel to the lag number. A set of positive lags follow a set of negative lags, and a positive lag amongst the positive's lags can measure the trend and seasonality of a dataset.  
 d.	Data Preparation for Prophet Model: Prophet Model has a specific format of data frame so that it can process prediction on the targeted column with respect to time, yearly in this project. 
 
-#Result Analysis: Analysis of this project is mainly based on seasonality and trending, Stationarity and Non-Stationarity, and prediction of the prophet model on the dataset.  
+Result Analysis: Analysis of this project is mainly based on seasonality and trending, Stationarity and Non-Stationarity, and prediction of the prophet model on the dataset.  
 1.	Seasonality and Trend Check: 
 The Adventure genre-related movies have been detrended and autocorrelation were applied to check the trend and seasonality. The Figure 1 shows that both count and percentage base datasets have trends and seasonality. 
 
@@ -98,7 +98,7 @@ Figure 3. Prophet Forecasting based on Count and percentages for adventure-relat
    
 Figure 4. Prophet Forecasting based on Count and percentages for drama-related genre 
 
-#Conclusion: 
+Conclusion: 
 The dataset of this study is critical to set for specific genres of movies since most cases, one movie belongs to multiple categories. Therefore, conducting filtering operations to the movie genres can find out the count of a specific one. Therefore, this study counted adventure, action, drama, and comedy-related genres each year. Moreover, this study conducted an operation to find the percentages of each genre among all other genres in a year. Afterward, detrending and autocorrelation were applied to each newly dataset based on categories to check trend and seasonality. Then the datasets were analyzed with the prophet model for each dataset up to 2026. The prediction result showed that the number of movies for adventure, action, drama, and comedy would increase, but their percentage will lessen. 
 
 Teamwork Statement: 
@@ -114,6 +114,7 @@ Research Topic, Source of Data Description and Problem formulation	Yanran
 Report Writing: 
 The Implemented Methodology, Result Analysis and Conclusion	Tamim 
 Edit, review, and approve final report	Yanran & Tamim
+
 Reference: 
 1.	https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python
 2.	https://www.ibm.com/docs/en/planning-analytics/2.0.0?topic=SSD29G_2.0.0/com.ibm.swg.ba.cognos.tm1_prism_gs.2.0.0.doc/papr_forecast_seasonality.htm
