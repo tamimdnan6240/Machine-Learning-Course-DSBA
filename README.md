@@ -28,11 +28,13 @@ slides: https://amueller.github.io/COMS4995-s20/slides/aml-03-supervised-learnin
 Preprocessing
 slides: https://amueller.github.io/COMS4995-s20/slides/aml-04-preprocessing
 Linear Regression
-https://amueller.github.io/COMS4995-s20/slides/aml-05-linear-models-regression#
+https://amueller.github.io/COMS4995-s20/slides/aml-05-linear-models-regression
+#
 Linear Classification
-https://amueller.github.io/COMS4995-s20/slides/aml-06-linear-models-classification#
+https://amueller.github.io/COMS4995-s20/slides/aml-06-linear-models-classification 
+#
 Trees 
-https://amueller.github.io/COMS4995-s20/slides/aml-07-trees-forests
+https://amueller.github.io/COMS4995-s20/slides/aml-07-trees-forests 
 Gradient boosting
 https://amueller.github.io/COMS4995-s20/slides/aml-08-gradient-boosting#
 Stacking
